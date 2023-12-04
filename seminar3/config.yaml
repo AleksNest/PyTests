@@ -1,0 +1,8 @@
+folder_in: /home/alex/tst
+folder_out: /home/alex/out
+folder_ext: /home/alex/folder1
+folder_ext2: /home/alex/folder2
+count: 5
+bs: 1M
+type: zip
+arc_type: zip
