@@ -1,0 +1,14 @@
+folder_in: /home/user2/tst
+folder_out: /home/user2/out
+folder_ext: /home/user2/folder1
+folder_ext2: /home/user2/folder2
+folder_7z: /home/alex/folder_7z/
+folder_server: /home/user2/
+count: 5
+bs: 1M
+type: zip
+ip: 0.0.0.0
+user: user2
+password: '1234'
+valid: Everything is Ok
+filename: p7zip-full
